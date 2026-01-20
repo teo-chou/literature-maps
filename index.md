@@ -37,7 +37,7 @@
 
 ## 俄罗斯文学
 
-- 《卡拉马佐夫兄弟》陀思妥耶夫斯基 [在线阅读](ka-la-ma-zao-fu-xiong-di.pdf)
+- 《卡拉马佐夫兄弟》陀思妥耶夫斯基 [在线阅读](the-brothers-karamazov.pdf)
 - 《大师和玛格丽特》布尔加科夫 [在线阅读](da-shi-he-ma-ge-li-te.pdf)
 
 ## 日本文学
