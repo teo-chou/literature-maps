@@ -34,7 +34,6 @@
 - 《老人与海》海明威 [在线阅读](lao-ren-yu-hai.pdf)
 - 《乔瓦尼的房间》詹姆斯·鲍德温 [在线阅读](qiao-wa-ni-de-fang-jian.pdf)
 - 《树上的男爵》伊塔洛·卡尔维诺 [在线阅读](shu-shang-de-nan-jue.pdf)
-- 《特隆、乌克巴尔、奥比斯・特蒂乌斯》豪尔赫·路易斯·博尔赫斯 [在线阅读](te-long-wu-ke-ba-er-ao-bi-si-te-di-wu-si.pdf)
 - 《献给阿尔吉侬的花束》丹尼尔·凯斯 [在线阅读](xian-gei-a-er-ji-nong-de-hua-shu.pdf)
 - 《雅各布·冯·贡腾》罗伯特·瓦尔泽 [在线阅读](ya-ge-bu-feng-gong-teng.pdf)
 
@@ -58,6 +57,7 @@
 
 - 《百年孤独》加西亚·马尔克斯 [在线阅读](bai-nian-gu-du.pdf)
 - 《我们八月见》加西亚·马尔克斯 [在线阅读](wo-men-ba-yue-jian.pdf)
+- 《特隆、乌克巴尔、奥比斯・特蒂乌斯》豪尔赫·路易斯·博尔赫斯 [在线阅读](te-long-wu-ke-ba-er-ao-bi-si-te-di-wu-si.pdf)
 
 ## 其他
 
