@@ -55,6 +55,7 @@
 
 ## 拉美文学
 
+- 《小径分岔的花园》豪尔赫·路易斯·博尔赫斯 [在线阅读](xiao-jing-fen-cha-de-hua-yuan.pdf)
 - 《特隆、乌克巴尔、奥比斯・特蒂乌斯》豪尔赫·路易斯·博尔赫斯 [在线阅读](te-long-wu-ke-ba-er-ao-bi-si-te-di-wu-si.pdf)
 - 《百年孤独》加西亚·马尔克斯 [在线阅读](bai-nian-gu-du.pdf)
 - 《我们八月见》加西亚·马尔克斯 [在线阅读](wo-men-ba-yue-jian.pdf)
