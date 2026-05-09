@@ -16,6 +16,7 @@
 - 《额尔古纳河右岸》迟子建 [在线阅读](e-er-gu-na-he-you-an.pdf)
 - 《活着》余华 [在线阅读](huo-zhe.pdf)
 - 《孽子》白先勇 [在线阅读](nie-zi.pdf)
+- 《森中有林》郑执 [在线阅读](sen-zhong-you-lin.pdf)
 - 《生死场》萧红 [在线阅读](sheng-si-chang.pdf)
 - 《食南之徒》马伯庸 [在线阅读](shi-nan-zhi-tu.pdf)
 - 《檀香刑》莫言 [在线阅读](tan-xiang-xing.pdf)
