@@ -30,6 +30,7 @@
 ## 欧美文学
 
 - 《暗处的女儿》埃莱娜·费兰特 [在线阅读](an-chu-de-nv-er.pdf)
+- 《奥德赛》荷马 [在线阅读](ao-de-sai.pdf)
 - 《反抗的忧郁》克拉斯诺霍尔卡伊·拉斯洛 [在线阅读](fan-kang-de-you-yu.pdf)
 - 《哈姆奈特》玛姬·欧法洛 [在线阅读](ha-mu-nai-te.pdf)
 - 《军靴男孩》格雷格·科普·怀特 [在线阅读](jun-xue-nan-hai.pdf)
