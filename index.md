@@ -35,7 +35,7 @@
 - 《哈姆奈特》玛姬·欧法洛 [在线阅读](ha-mu-nai-te.pdf)
 - 《军靴男孩》格雷格·科普·怀特 [在线阅读](jun-xue-nan-hai.pdf)
 - 《老人与海》海明威 [在线阅读](lao-ren-yu-hai.pdf)
-- 《面纱》威廉・萨默塞特・毛姆 [在线阅读](mao-mu.pdf)
+- 《面纱》威廉・萨默塞特・毛姆 [在线阅读](mian-sha.pdf)
 - 《乔瓦尼的房间》詹姆斯·鲍德温 [在线阅读](qiao-wa-ni-de-fang-jian.pdf)
 - 《日尼薇》安德烈・纪德 [在线阅读](ri-ni-wei.pdf)
 - 《树上的男爵》伊塔洛·卡尔维诺 [在线阅读](shu-shang-de-nan-jue.pdf)
